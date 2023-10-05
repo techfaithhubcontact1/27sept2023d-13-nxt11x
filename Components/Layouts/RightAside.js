@@ -1,5 +1,5 @@
 //1. Import Area
-// import React from 'react'
+import React from 'react'
 
 
 //2. defination Area
